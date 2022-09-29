@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sudani" alt="ahmed-sudani" /></a> </p>
 
-- 🔭 I’m currently working on **delivery project as a fullstack developer**
+- 🔭 I’m currently working on **cars project as a fullstack developer**
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **testing**
 
-- 👯 I’m looking to collaborate on **nodejs graphql project**
+- 👯 I’m looking to collaborate on **nextjs projects**
 
 - 💬 Ask me about **react and express or anything in javascript or typescript**
 
