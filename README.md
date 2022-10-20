@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ahmed-sudani</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Sudani</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-sudani&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-sudani" /> </p>
